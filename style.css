@@ -46,7 +46,10 @@ body {
 }
 
 .second-container {
-    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
     color: white;
     width: calc(100% - 275px) !important;
     border-right: 1px solid white;
