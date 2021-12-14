@@ -45,16 +45,15 @@ body {
     background: white;
 }
 
+
 .second-container {
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-left: 10px;
-    padding-right: 10px;
     color: white;
-    width: calc(100% - 275px) !important;
+    width: calc(100% - 200px) !important;
     border-right: 1px solid white;
     border-bottom: 1px solid white;
-    margin-left: 50px;
+    margin-left: 5px;
     border-bottom-right-radius: 25px;
     display: grid;
     grid-template-columns: 1fr 1fr;
